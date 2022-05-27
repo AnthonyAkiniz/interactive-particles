@@ -1,4 +1,4 @@
-# interactive-particles
+# Interactive Particles
 Javascript and HTML canvas mouse collision detection to break up particles
 
 | #  |       Project       | Live Demo |
